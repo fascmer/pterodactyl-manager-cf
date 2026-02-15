@@ -1,4 +1,4 @@
-# 🦖 Pterodactyl File Manager - Cloudflare Worker 版
+# 🦖 Pterodactyl File Manager - Cloudflare Worker 版（点个小星星呗）
 
 翼龙面板文件管理器，部署在 Cloudflare Worker 上。
 
