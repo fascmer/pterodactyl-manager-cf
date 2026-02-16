@@ -2,6 +2,8 @@
 
 翼龙面板文件管理器，部署在 Cloudflare Worker 上。
 
+容器版性能更佳： https://github.com/fascmer/pterodactyl-manager
+
 ## 功能
 
 - 📂 文件列表浏览
